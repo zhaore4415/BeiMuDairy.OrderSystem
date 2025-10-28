@@ -1,0 +1,92 @@
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Visual Studio
+.vs/
+*.sln.docstates
+*.sln.reload
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.DotSettings.user
+*.csproj.user
+*.vbproj.user
+*.vcxproj.user
+
+# Build outputs
+bin/
+obj/
+[Bb]uild/
+[Oo]utput/
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet
+.nuget/
+*.nupkg
+packages/
+project.lock.json
+
+# Logs
+*.log
+log/\nlogs/
+
+# Runtime data
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Debug
+*.pdb
+*.vshost.exe
+*.vshost.exe.manifest
+*.vshost.*.exe
+*.vshost.*.exe.manifest
+
+# Resharper
+_ReSharper*
+*.ReSharper
+resharper_*.xml
+resharper-*.cache
+
+# StyleCop
+StyleCop.Cache
+
+# NDepend
+NDependOut/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# Rider
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Backup files
+*.bak
+*.old
+*.orig
+*~
